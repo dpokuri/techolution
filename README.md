@@ -13,3 +13,8 @@ Solution:
 The application uses KnapSack Algorithm to find the Maximum Satisfaction. The value is 2493893.
 I have written test cases using JUNIT framework.
         
+Instructions for execution of this program:
+
+1. Download the file code and import into any editotr and provide the 'input.txt' file path in 
+   /restaurant/src/main/java/com/techolution/restaurant/RestaurantApplication.java and then run the application.
+2. In the same way you can run the JUNI test cases too.
